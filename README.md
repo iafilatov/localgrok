@@ -15,7 +15,7 @@ I consider it unstable. It runs, all 3 buttons work, it indexes, and the web pag
 Prerequisites
 -------------
 
-* Java
+* Java <= 1.7 (patches for 1.8 are welcome!)
 
 * ctags
 
@@ -29,7 +29,7 @@ Prerequisites
 Installation
 ------------
 
-None needed. Just clone the repository and double-clict localgrock.jar. Run it from command line like `java -jar localgrok.jar` to get a kind of verbose output.
+None needed. Just clone the repository and double-click localgrock.jar. Run it from command line like `java -jar localgrok.jar` to get a kind of verbose output.
 
 
 Usage
